@@ -6,11 +6,8 @@ How use it:
 2- Export the file (UserDataBase.sql) in phpmyadmin (http://localhost:2222/phpmyadmin)... here i have changed the default port to 2222!
 3- Open Visual studio code in the folder frontend and run "npm start" You will see this interface in browser 
 <img
-src=“Contacts.jpg”
-raw=true
-alt=“Contacts”
-style=“margin-right: 10px;”
-/>
+src=“Contacts.jpg” />
+
 This image show all contacts that exist in the database.
 
 4- When you click on Add new contact you will see this interface 
